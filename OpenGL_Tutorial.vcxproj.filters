@@ -33,4 +33,12 @@
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\shader.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="shaders\shader.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
 </Project>
